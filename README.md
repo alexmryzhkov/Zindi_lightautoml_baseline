@@ -2,6 +2,8 @@
 
 This is a repo for [AutoInland Vehicle Insurance Claim Challenge](https://zindi.africa/competitions/autoinland-vehicle-insurance-claim-challenge) baseline based on [LightAutoML](https://github.com/sberbank-ai-lab/LightAutoML).
 
+**Current score is 0.3252**
+
 P.S. We will be happy for your ⭐️ on LightAutoML repo if you like it.
 
 ---
